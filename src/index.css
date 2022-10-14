@@ -1,0 +1,28 @@
+/* .App{
+    background-color: cyan;
+    border: 3px ridge white;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    display: grid;
+    grid-template-columns:3;
+    grid-template-rows: 3;
+    margin-left: 500px; 
+}
+
+.number{
+    color: tomato;
+    font-weight: 800;
+}
+
+button{
+    background-color: rebeccapurple;
+    color: whitesmoke;
+    border-radius: 10px;
+    border-color: rebeccapurple;
+    padding: 6px;
+}
+
+:root{
+    background-color: black;
+} */
